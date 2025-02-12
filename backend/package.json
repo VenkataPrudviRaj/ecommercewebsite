@@ -1,0 +1,27 @@
+{
+  "name": "dbms-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.12.0",
+    "nodemon": "^2.0.3",
+    "sequelize": "^6.37.5",
+    "stripe": "^8.67.0",
+    "uuid": "^7.0.3",
+    "uuidv4": "^6.1.1"
+  }
+}
